@@ -1,0 +1,17 @@
+{
+	"keywords" : [
+		"payement api"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"PayementAPI\\PayementAPI\\" : "src"
+		}
+	},
+	"name" : "payementAPI/PayementAPI",
+	"description" : "payement api",
+	"require" : {
+		"php" : ">=7.1",
+		"sebastian/diff" : "~3.0",
+		"phpunit/phpunit" : "^7.0"
+	}
+}

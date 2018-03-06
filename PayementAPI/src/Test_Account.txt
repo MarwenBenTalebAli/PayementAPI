@@ -1,0 +1,36 @@
+1- Les adresse des connexions :
+   
+https://test.satim.dz/payment/rest/register.do
+
+https://test.satim.dz/payment/rest/reverse.do
+
+https://test.satim.dz/payment/rest/refund.do
+
+https://test.satim.dz/payment/rest/confirmOrder.do
+
+https://test.satim.dz/payment/rest/getOrderStatus.do
+
+https://test.satim.dz/payment/rest/getLastOrdersForMerchants.do
+
+ 
+
+2- Carte de test :
+   
+N carte : 5021451100000917
+
+CVV2 : 321
+
+Date expiration : 10/2018
+
+Nom : REKAB AISSA
+
+Mot passe : 123456
+
+
+3- Paramètres d’accès :
+   
+User name : dscs2018
+
+User password : satim120
+
+force_terminal_id: E005005093
